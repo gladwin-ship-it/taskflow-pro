@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 
 const PRIORITIES = { high: { label: 'High', color: '#ff4757' }, medium: { label: 'Medium', color: '#ffa502' }, low: { label: 'Low', color: '#2ed573' } };
